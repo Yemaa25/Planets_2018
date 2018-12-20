@@ -1,4 +1,4 @@
-# Planets_2018
+Planets_2018
 git lesson from december workshop
 
 Now you can add a much more detailed description for others to read.
